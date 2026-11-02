@@ -1,0 +1,13 @@
+PORTOFOLIO BALA DEWI — PETUNJUK GITHUB PAGES
+
+1. Ekstrak ZIP ini terlebih dahulu.
+2. Di repository GitHub, pilih Add file > Upload files.
+3. Unggah index.html dan seluruh folder assets. Jangan unggah ZIP-nya.
+4. Commit changes.
+5. Settings > Pages > Deploy from a branch > main > / (root) > Save.
+
+index.html harus berada di halaman utama repository, bukan di dalam folder lain.
+Tunggu publikasi selesai; alamat situs akan muncul di bagian Pages.
+
+Foto, CV, sertifikat, dan manual book sudah termasuk di folder assets.
+Animasi dan tombol tetap berfungsi. Situs ini tidak memuat watermark ChatGPT.
